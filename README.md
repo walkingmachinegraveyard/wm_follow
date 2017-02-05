@@ -1,3 +1,5 @@
+DEPRACATED
+
 # Walking Machine follow_someone node
 
 ## Description
